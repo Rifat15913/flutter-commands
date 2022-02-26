@@ -8,6 +8,12 @@ flutter doctor --verbose
 
 This command shows if the `flutter` environment setup is okay or not.
 
+```yaml
+flutter clean
+```
+
+This command cleans up build-caches.
+
 ## **Dependencies**
 
 ```yaml
